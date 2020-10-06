@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alice trying to change 1em1jdfsadt1qs
+=======
+changing bobs file ok
+>>>>>>> d0f681812af4eed1d2a242722589bb25027267c6
